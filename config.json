@@ -16,8 +16,8 @@
     "EMAIL": "bossfarhan@gmail.com",
     "PASSWORD": "1234",
     "OTPKEY": "",
-    "BOTNAME": "{×𝐁𝐎𝐓×}𒄬𝑭𝑨𝑹𝑯𝑨𝑵 𝑨𝑹 𝑩𝑶𝑾___//😈🥵😘",
-    "PREFIX": "/",
+    "BOTNAME": "𝑲𝒉𝒂𝒅𝒊𝒛𝒂𝒓 𝑺𝒐𝒕𝒊𝒏 🎀🌸",
+    "PREFIX": ".",
     "OTHERBOT": [
         "61550121814016",
         "100090087850647",
@@ -31,14 +31,14 @@
     "GOD": [
         "61550121814016",
         "100090087850647",
-        ""
+        "md.nayon.470246"
     ],
     "ADMINBOT": [
         "61550121814016",
         "",
         "",
         "100090087850647",
-        "",
+        "md.nayon.470246",
         "",
         "",
         "",
@@ -47,10 +47,10 @@
         "",
         ""
     ],
-    "OWNER": "RJ FARHAN",
+    "OWNER": "ASMAUL",
     "AGE": "N/N",
     "GENDER": "Male",
-    "FACEBOOK": "https://www.facebook.com/profile.php?id=100090087850647&mibextid=ZbWKwL",
+    "FACEBOOK": "https://www.facebook.com/md.nayon.470246",
     "AutoOffBot": "disable",
     "AutoOffBotStartSleep": "01:00",
     "AutoOffBotSendMessage": "Bye everyone. i need to sleep i'll be right back at 5:00AM 🥰",
@@ -59,7 +59,7 @@
     "AutoGreetWithSticker": "enable",
     "AutoGreetSendPerHour": "1",
     "AutoPost": "enable",
-    "AutoPostText": "THIS BOT MADE BY RJ FARHAN",
+    "AutoPostText": "THIS BOT MADE BY Asmaul",
     "AutoPostPerHour": "2",
     "AutoPostGreet": "enable",
     "AutoPostGreetPostPerHour": "2",
